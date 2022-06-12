@@ -1,0 +1,34 @@
+# Public folder, ignoring all core files
+
+# ignore everything except custom themes and plugins
+/public/*
+
+!/public/wp-content
+/public/wp-content/*
+
+!/public/wp-content/themes
+/public/wp-content/themes/*
+!/public/wp-content/themes/marlin*
+
+!/public/wp-content/plugins
+/public/wp-content/plugins/*
+
+!/public/wp-content/mu-plugins
+
+# add your extra plugins here
+#!/public/wp-content/plugins/your-custom-plugin
+
+# add default non-ignored files
+!/public/favicon.ico
+!/public/.htaccess
+
+# other extras go here
+.tmp
+idea
+.idea/*
+error_log
+.DS_Store
+.env
+.vscode
+.wp-cli
+node_modules

@@ -1,0 +1,144 @@
+.kt-row-layout-inner .kt-row-column-wrap {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 !important;
+}
+
+.no-margin-row-column-wrap .kt-row-layout-inner .kt-row-column-wrap{
+    padding: 0 !important;
+}
+
+.mb-0{
+    margin-bottom: 0 !important;
+}
+
+.mb-1{
+    margin-bottom: 1em !important;
+}
+
+.mt-1{
+    margin-top: 1em !important;
+}
+
+.section-intro {
+    position: relative;
+    padding-left: 20px;
+    font-size: 16px;
+    font-weight: 600;
+
+    &::before {
+        position: absolute;
+        height: 18px;
+        width: 18px;
+        content: '';
+        background: url('../../img/icons8-sparkling-96\ 2.png');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        top: 3px;
+        left: 0;
+    }
+}
+
+.services-page {
+
+    &-cover {
+        min-height: 450px;
+        width: 100%;
+        text-align: center;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+
+        &::before {
+            content: '';
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: $primary-color;
+            opacity: 0.75;
+
+        }
+    }
+
+    &-text-wrapper {
+        max-width: 650px;
+        z-index: 1;
+        text-align: center;
+
+        .title {
+            color: #fff;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 52px;
+            line-height: 68px;
+            padding-top: 2.5em;
+        }
+
+        .description {
+            color: #fff;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 21px;
+            line-height: 30px;
+            text-align: center;
+        }
+    }
+
+    &-left-sidebar{
+        .left-vertical-nav-menu ul li{
+            display: block;
+            padding: 10px 15px;
+            border-bottom: 0.5px solid rgba(1, 44, 99, 0.5);
+
+            &:first-child{
+                border-top-left-radius: 5px;
+                border-top-right-radius: 5px;
+            }
+
+            &:hover{
+                background-color: #e5e5e5;
+            }
+
+            &.current-menu-item{
+                background-color: $secondary-color;
+                a{
+                    color: #fff;
+                    &::after{
+                        color: #fff;
+                    }
+                }
+            }
+
+            a{
+                text-decoration: none;
+                color: $primary-color;
+                display: inline-block;
+                width: 100%;
+                position: relative;
+
+                &::after{
+                    font-family: 'Font Awesome 6 Free'; 
+                    content: fa-content($fa-var-chevron-right);
+                    color: $primary-color;
+                    position: absolute;
+                    top: 10%;
+                    right: 20px;
+                }
+            }
+        }
+    }
+}
