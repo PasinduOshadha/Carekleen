@@ -1,0 +1,49 @@
+.services-post-carousel{
+    &-wrapper{
+        width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    &-card{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px 15px;
+        gap: 25px;
+        background: #FFFFFF;
+        border: 1px solid $secondary-color;
+        border-radius: 12px;
+    }
+    &-item-title{
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 29px;
+        text-align: center;
+        color: $primary-color;
+        position: relative;
+        &::after{
+            position: absolute;
+            content: '';
+            height: 3px;
+            width: 20%;
+            background: $secondary-color;
+            left: 40%;
+            right: 40%;
+            bottom: -15px;
+        }
+    }
+    &-description{
+        text-align: center;
+        color: #666E83;;
+    }
+}
+
+// owl carousel fix for equal height slides
+.owl-stage {
+    display: flex;
+}
+.owl-item {
+    display: flex;
+    flex: 1 0 auto;
+}

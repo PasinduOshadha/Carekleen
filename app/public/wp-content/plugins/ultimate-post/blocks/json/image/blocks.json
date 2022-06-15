@@ -1,0 +1,8 @@
+{
+	"name": "ultimate-post/image",
+	"category": "ultimate-post",
+	"title": "Archive Title",
+    "icon": "list-view",
+	"textdomain": "ultimate-post",
+	"description": "Display images with the ultimate controls."
+}

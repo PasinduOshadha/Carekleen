@@ -19,6 +19,7 @@ $services_query = new WP_Query($args);
             <div class="services-post-carousel-card">
                 <h4 class="services-post-carousel-item-title"><?php the_title(); ?></h4>
                 <div class="services-post-carousel-description"><?php the_field('service_description'); ?></div>
+                <a class="services-post-carousel-readmore" href="<?php echo esc_html(the_permalink()); ?>">Read More</a>
             </div>
 
         <?php endwhile; ?>

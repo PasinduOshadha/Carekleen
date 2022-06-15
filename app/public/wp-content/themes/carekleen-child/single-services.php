@@ -60,6 +60,7 @@ if (get_field('service_description')) {
 </div><!-- #primary -->
 
 <?php
+// gets the template part for sevices post carousel
 get_template_part(
 	'template_parts/services',
 	'carousel',

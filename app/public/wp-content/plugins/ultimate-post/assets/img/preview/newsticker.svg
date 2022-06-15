@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="29" viewBox="0 0 280 29">
+  <g id="Group_1148" data-name="Group 1148" transform="translate(-22 -3077)">
+    <g id="Rectangle_1730" data-name="Rectangle 1730" transform="translate(22 3077)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="280" height="29" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="28" fill="none"/>
+    </g>
+    <rect id="Rectangle_1731" data-name="Rectangle 1731" width="42" height="29" transform="translate(22 3077)" fill="#707070"/>
+    <rect id="Rectangle_1732" data-name="Rectangle 1732" width="32" height="29" transform="translate(270 3077)" fill="#707070"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M5.035,0l5.035,6.293H0Z" transform="translate(68.969 3086) rotate(90)" fill="#707070"/>
+    <text id="Latest_News" data-name="Latest News" transform="translate(27 3094)" fill="#fff" font-size="6" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Latest News</tspan></text>
+    <path id="Path_353" data-name="Path 353" d="M2547.525,4139.161l-4.918,4.917,4.918,4.918" transform="translate(-2267.423 -1052.578)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_354" data-name="Path 354" d="M2542.608,4139.16l4.918,4.918-4.918,4.918" transform="translate(-2251.577 -1052.578)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_355" data-name="Path 355" d="M2552.225,4178.018v5.776" transform="translate(-2268.225 -1089.406)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_356" data-name="Path 356" d="M2552.225,4178.018v5.776" transform="translate(-2265.225 -1089.406)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="Donec_ullamcorper_ut_risus_auctor." data-name="Donec ullamcorper ut risus auctor." transform="translate(81 3094)" fill="#707070" font-size="6" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Donec ullamcorper ut risus auctor.</tspan></text>
+    <text id="Sed_vehicula_pretium_non_maxi" data-name="Sed vehicula pretium non maxi" transform="translate(187 3094)" fill="#707070" font-size="6" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Sed vehicula pretium non maxi</tspan></text>
+    <g id="Group_1146" data-name="Group 1146" transform="translate(1494.663 4410.94)">
+      <circle id="Ellipse_51" data-name="Ellipse 51" cx="3.5" cy="3.5" r="3.5" transform="translate(-1422.663 -1322.94)" fill="#707070"/>
+      <g id="Group_1145" data-name="Group 1145" transform="translate(-1421.05 -1321.716)">
+        <circle id="Ellipse_52" data-name="Ellipse 52" cx="0.982" cy="0.982" r="0.982" transform="translate(0.905 0)" fill="#fff"/>
+        <path id="Path_357" data-name="Path 357" d="M-1366.269-1205.113a.4.4,0,0,0,.389-.5,1.931,1.931,0,0,0-.385-.741,1.935,1.935,0,0,0-1.489-.7,1.936,1.936,0,0,0-1.538.758,1.932,1.932,0,0,0-.335.679.4.4,0,0,0,.389.5h2.969Z" transform="translate(1369.64 1209.354)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_1147" data-name="Group 1147" transform="translate(1600.663 4410.94)">
+      <circle id="Ellipse_51-2" data-name="Ellipse 51" cx="3.5" cy="3.5" r="3.5" transform="translate(-1422.663 -1322.94)" fill="#707070"/>
+      <g id="Group_1145-2" data-name="Group 1145" transform="translate(-1421.05 -1321.716)">
+        <circle id="Ellipse_52-2" data-name="Ellipse 52" cx="0.982" cy="0.982" r="0.982" transform="translate(0.905 0)" fill="#fff"/>
+        <path id="Path_357-2" data-name="Path 357" d="M-1366.269-1205.113a.4.4,0,0,0,.389-.5,1.931,1.931,0,0,0-.385-.741,1.935,1.935,0,0,0-1.489-.7,1.936,1.936,0,0,0-1.538.758,1.932,1.932,0,0,0-.335.679.4.4,0,0,0,.389.5h2.969Z" transform="translate(1369.64 1209.354)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
