@@ -32,3 +32,6 @@ error_log
 .vscode
 .wp-cli
 node_modules
+
+#wp-config
+app/public/wp-config.php
