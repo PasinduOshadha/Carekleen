@@ -33,5 +33,5 @@ error_log
 .wp-cli
 node_modules
 
-#wp-config
+#excluding wp-config.php
 app/public/wp-config.php
