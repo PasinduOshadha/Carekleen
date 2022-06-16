@@ -1,0 +1,9 @@
+{
+    "name": "pronamic/gravityforms",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    }
+}

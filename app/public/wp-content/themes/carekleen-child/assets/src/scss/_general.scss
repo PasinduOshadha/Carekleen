@@ -45,12 +45,44 @@ h6 {
         background-position: center center;
         background-repeat: no-repeat;
         top: 3px;
-        left: 0;
+        transform: translateX(-25px);
     }
 }
-
+.cover{
+    position: relative;
+    &::after{
+        background: url('../../img/Union.svg');
+        background-position: top center;
+        background-size: cover;
+        height: 190px;
+        bottom: 0;
+        left: 0;
+        z-index: 2;
+        width: 100%;
+        content: '';
+        position: absolute;
+    }
+}
 .kt-blocks-post-readmore{
     text-decoration: underline !important;
+}
+
+.kt-blocks-post-grid-item-inner{
+    .entry-title{
+        position: relative;
+        &::after{
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 35px;
+            height: 3px;
+            background-color: $secondary-color;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
 }
 
 .icon-heading-area .wp-block-kadence-column{
@@ -209,6 +241,18 @@ h6 {
                     right: 20px;
                 }
             }
+        }
+    }
+}
+
+/*
+Gallery page - filterable gallery css
+*/
+
+.filterable-gallery-section{
+    .row{
+        &:first-child{
+            justify-content: center;
         }
     }
 }

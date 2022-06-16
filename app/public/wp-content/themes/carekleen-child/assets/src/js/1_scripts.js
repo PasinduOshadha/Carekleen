@@ -24,4 +24,19 @@ $(document).ready(function () {
             }
         }
     });
+    
+    $('.header-button, .mobile-header-button').click(function (e) { 
+        e.preventDefault();
+        
+        $('.popup-wrapper').show();
+        $('body').css('overflow', 'hidden');
+    });
+    
+    $('.popup-overlay, .popup-close-btn').click(function (e) { 
+        e.preventDefault();
+        
+        $('.popup-wrapper').hide();
+        $('body').css('overflow', 'inherit');
+    });
+
 });
