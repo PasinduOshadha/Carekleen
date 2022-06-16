@@ -1,0 +1,1304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: स्लाइडर फैक्टरी प्रीमियम\n"
+"POT-Creation-Date: 2021-06-24 15:51+0530\n"
+"PO-Revision-Date: 2021-06-24 15:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/galleries.php:22 filter-gallery.php:78
+msgid "Filter Gallery"
+msgstr "फ़िल्टर गैलरी"
+
+#: admin/galleries.php:25
+msgid "Create New Gallery"
+msgstr "नई गैलरी बनाएं"
+
+#: admin/galleries.php:33 admin/galleries.php:85 admin/manage-gallery.php:453
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/galleries.php:34 admin/galleries.php:86 admin/manage-gallery.php:480
+msgid "Shortcode"
+msgstr "शॉर्टकोड"
+
+#: admin/galleries.php:35 admin/galleries.php:87
+msgid "Actions"
+msgstr "कार्रवाई"
+
+#: admin/galleries.php:36
+msgid "Select All Galleries"
+msgstr "सभी गैलरी का चयन करें"
+
+#: admin/galleries.php:64
+msgid "Click To Copy Gallery Shortcode"
+msgstr "गैलरी शोर्टकोड कॉपी करने के लिए क्लिक करें"
+
+#: admin/galleries.php:64
+msgid "Copy"
+msgstr "कॉपी"
+
+#: admin/galleries.php:65
+msgid "Copied"
+msgstr "कॉपी की गई"
+
+#: admin/galleries.php:68
+msgid "Clone Gallery"
+msgstr "क्लोन गैलरी"
+
+#: admin/galleries.php:70
+msgid "Delete Gallery"
+msgstr "गैलरी हटाएं"
+
+#: admin/galleries.php:73
+msgid "Select Gallery"
+msgstr "गैलरी का चयन करें"
+
+#: admin/galleries.php:88
+msgid "Delete Selected Gallery"
+msgstr "चयनित गैलरी हटाएं"
+
+#: admin/manage-gallery.php:51
+msgid "Create and Manage Filters For Gallery"
+msgstr "गैलरी के लिए फ़िल्टर बनाएं और प्रबंधित करें"
+
+#: admin/manage-gallery.php:55
+msgid "Gallery Name / Title"
+msgstr "गैलरी का नाम / शीर्षक"
+
+#: admin/manage-gallery.php:62 admin/manage-gallery.php:151
+#: admin/manage-gallery.php:180
+msgid "Filters"
+msgstr "फिल्टर"
+
+#: admin/manage-gallery.php:72
+msgid "Filter Name"
+msgstr "फ़िल्टर का नाम"
+
+#: admin/manage-gallery.php:77
+msgid "Type Filter Name"
+msgstr "फ़िल्टर नाम टाइप करें"
+
+#: admin/manage-gallery.php:89
+msgid "Update"
+msgstr "अपडेट करें"
+
+#: admin/manage-gallery.php:90
+msgid "Add"
+msgstr "जोड़ना"
+
+#: admin/manage-gallery.php:93
+msgid "Important Note"
+msgstr "महत्वपूर्ण लेख"
+
+#: admin/manage-gallery.php:94
+msgid "Only FIRST FIVE FILTERS will be usable and display in output gallery."
+msgstr "केवल पहले पांच फिल्टर प्रयोग करने योग्य होंगे और आउटपुट गैलरी में प्रदर्शित होंगे।"
+
+#: admin/manage-gallery.php:95
+msgid "Create only parent level filters. Child filters are Pro feature."
+msgstr "केवल पैरेंट स्तर के फ़िल्टर बनाएं। चाइल्ड फिल्टर प्रो फीचर हैं।"
+
+#: admin/manage-gallery.php:96
+msgid "You can create five filters only. Upgrade to Pro for unlimited."
+msgstr "आप केवल पाँच फ़िल्टर बना सकते हैं। असीमित के लिए प्रो में अपग्रेड करें।"
+
+#: admin/manage-gallery.php:97
+msgid ""
+"Editing and updating filter after assigning to images will lead to reassign."
+msgstr ""
+"छवियों को असाइन करने के बाद फ़िल्टर को संपादित करने और अपडेट करने से पुन: असाइन किया "
+"जाएगा।"
+
+#: admin/manage-gallery.php:98
+msgid "Do not use any symbol in filter name like"
+msgstr "फ़िल्टर नाम में किसी भी प्रतीक का प्रयोग न करें जैसे"
+
+#: admin/manage-gallery.php:110 admin/manage-gallery.php:154
+#: admin/manage-gallery.php:477
+msgid "Save"
+msgstr "सहेजें"
+
+#: admin/manage-gallery.php:113 admin/manage-gallery.php:474
+msgid "Gallery"
+msgstr "गैलरी"
+
+#: admin/manage-gallery.php:123
+msgid "Upload Images to Gallery And Apply Filters"
+msgstr "गैलरी में चित्र अपलोड करें और फ़िल्टर लागू करें"
+
+#: admin/manage-gallery.php:129
+msgid "Remove All"
+msgstr "सभी हटाएं"
+
+#: admin/manage-gallery.php:141
+msgid "Upload Images"
+msgstr "तश्वीरें अपलोड करो"
+
+#: admin/manage-gallery.php:157 admin/manage-gallery.php:504
+msgid "Settings"
+msgstr "समायोजन"
+
+#: admin/manage-gallery.php:166
+msgid "Configure Settings"
+msgstr "सेटिंग्स कॉन्फ़िगर करें"
+
+#: admin/manage-gallery.php:170
+msgid "Filter Settings"
+msgstr "फ़िल्टर सेटिंग्स"
+
+#: admin/manage-gallery.php:184 admin/manage-gallery.php:198
+#: admin/manage-gallery.php:348 admin/manage-gallery.php:381
+#: admin/manage-gallery.php:457
+msgid "Show"
+msgstr "प्रदर्शन"
+
+#: admin/manage-gallery.php:187 admin/manage-gallery.php:201
+#: admin/manage-gallery.php:351 admin/manage-gallery.php:384
+#: admin/manage-gallery.php:460
+msgid "Hide"
+msgstr "छिपाना"
+
+#: admin/manage-gallery.php:190
+msgid "hide and show filter above gallery"
+msgstr "गैलरी के ऊपर फ़िल्टर छुपाएं और दिखाएं"
+
+#: admin/manage-gallery.php:194
+msgid "All Button"
+msgstr "सभी बटन"
+
+#: admin/manage-gallery.php:204
+msgid "hide and show all filter button"
+msgstr "सभी फ़िल्टर बटन छुपाएं और दिखाएं"
+
+#: admin/manage-gallery.php:208
+msgid "All Button Title"
+msgstr "सभी बटन शीर्षक"
+
+#: admin/manage-gallery.php:209 setting.php:39
+msgid "All"
+msgstr "सभी "
+
+#: admin/manage-gallery.php:211
+msgid "type name"
+msgstr "नाम लिखो"
+
+#: admin/manage-gallery.php:213
+msgid "set all filter button title"
+msgstr "सभी फ़िल्टर बटन शीर्षक सेट करें"
+
+#: admin/manage-gallery.php:217
+msgid "All Button Color"
+msgstr "सभी बटन रंग"
+
+#: admin/manage-gallery.php:222 admin/manage-gallery.php:231
+msgid "set background color of all filter button"
+msgstr "सभी फ़िल्टर बटन का पृष्ठभूमि रंग सेट करें"
+
+#: admin/manage-gallery.php:226
+msgid "All Button Background Color"
+msgstr "सभी बटन पृष्ठभूमि रंग"
+
+#: admin/manage-gallery.php:234
+msgid "Parent Filter Button Color"
+msgstr "जनक फ़िल्टर बटन रंग"
+
+#: admin/manage-gallery.php:239
+msgid "set background color of parent filter button"
+msgstr "पैरेंट फ़िल्टर बटन का बैकग्राउंड कलर सेट करें"
+
+#: admin/manage-gallery.php:242
+msgid "Parent Filters Button Background Color"
+msgstr "जनक फ़िल्टर बटन पृष्ठभूमि रंग"
+
+#: admin/manage-gallery.php:247
+msgid "set background color of parent filter background button."
+msgstr "पैरेंट फ़िल्टर बैकग्राउंड बटन का बैकग्राउंड कलर सेट करें।"
+
+#: admin/manage-gallery.php:254
+msgid "Gallery Settings"
+msgstr "गैलरी सेटिंग्स"
+
+#: admin/manage-gallery.php:258
+msgid "Columns On Desktop"
+msgstr "डेस्कटॉप पर कॉलम"
+
+#: admin/manage-gallery.php:262 admin/manage-gallery.php:285
+#: admin/manage-gallery.php:302
+msgid "3"
+msgstr "3"
+
+#: admin/manage-gallery.php:265
+msgid "4"
+msgstr "4"
+
+#: admin/manage-gallery.php:268
+msgid "6"
+msgstr "6"
+
+#: admin/manage-gallery.php:271
+msgid "columns to display on desktop or pc device"
+msgstr "डेस्कटॉप या पीसी डिवाइस पर प्रदर्शित करने के लिए कॉलम"
+
+#: admin/manage-gallery.php:275
+msgid "Columns On Tablet"
+msgstr "टैबलेट पर कॉलम"
+
+#: admin/manage-gallery.php:279 admin/manage-gallery.php:296
+#: admin/manage-gallery.php:313
+msgid "1"
+msgstr "1"
+
+#: admin/manage-gallery.php:282 admin/manage-gallery.php:299
+#: admin/manage-gallery.php:316
+msgid "2"
+msgstr "2"
+
+#: admin/manage-gallery.php:288
+msgid "columns to display on tablet device"
+msgstr "टैबलेट डिवाइस पर प्रदर्शित करने के लिए कॉलम"
+
+#: admin/manage-gallery.php:292
+msgid "Columns On Mobile - Landscape Mode"
+msgstr "मोबाइल पर कॉलम - लैंडस्केप मोड"
+
+#: admin/manage-gallery.php:305
+msgid "columns to display on mobile device with landscape mode"
+msgstr "लैंडस्केप मोड के साथ मोबाइल डिवाइस पर प्रदर्शित करने के लिए कॉलम"
+
+#: admin/manage-gallery.php:309
+msgid "Columns On Mobile - Portrait Mode"
+msgstr "मोबाइल पर कॉलम - पोर्ट्रेट मोड"
+
+#: admin/manage-gallery.php:319
+msgid "columns to display on mobile device with portrait mode"
+msgstr "पोर्ट्रेट मोड के साथ मोबाइल डिवाइस पर प्रदर्शित करने के लिए कॉलम"
+
+#: admin/manage-gallery.php:323
+msgid "Thumbnail Image Size"
+msgstr "थंबनेल छवि का आकार"
+
+#: admin/manage-gallery.php:327
+msgid "Small"
+msgstr "छोटा"
+
+#: admin/manage-gallery.php:328
+msgid "Medium"
+msgstr "मध्यम"
+
+#: admin/manage-gallery.php:329
+msgid "Large"
+msgstr "विशाल"
+
+#: admin/manage-gallery.php:330
+msgid "Original"
+msgstr "मूल"
+
+#: admin/manage-gallery.php:331 admin/manage-gallery.php:332
+#: admin/manage-gallery.php:333
+msgid "Same Size"
+msgstr "समान आकार"
+
+#: admin/manage-gallery.php:336
+msgid "set thumbnail image size"
+msgstr "थंबनेल छवि का आकार सेट करें"
+
+#: admin/manage-gallery.php:338
+msgid "Note"
+msgstr "ध्यान दें"
+
+#: admin/manage-gallery.php:339
+msgid ""
+"Same size setting will only work with newly images uploaded after the plugin "
+"installation."
+msgstr ""
+"समान आकार की सेटिंग केवल प्लगइन स्थापना के बाद अपलोड की गई नई छवियों के साथ काम करेगी।"
+
+#: admin/manage-gallery.php:340
+msgid "It will not work previously uploaded images."
+msgstr "यह पहले से अपलोड की गई छवियों के साथ काम नहीं करेगा।"
+
+#: admin/manage-gallery.php:344
+msgid "Thumbnail Border"
+msgstr "थंबनेल बॉर्डर"
+
+#: admin/manage-gallery.php:354
+msgid "show or hide thumbnail border"
+msgstr "थंबनेल बॉर्डर दिखाएँ या छिपाएँ"
+
+#: admin/manage-gallery.php:358
+msgid "Thumbnail Border Thickness"
+msgstr "थंबनेल बॉर्डर मोटाई Thick"
+
+#: admin/manage-gallery.php:364
+msgid "set thumbnail border thickness"
+msgstr "थंबनेल बॉर्डर मोटाई सेट करें"
+
+#: admin/manage-gallery.php:368
+msgid "Thumbnail Border Color"
+msgstr "थंबनेल बॉर्डर कलर"
+
+#: admin/manage-gallery.php:373
+msgid "set thumbnail border color"
+msgstr "थंबनेल बॉर्डर रंग सेट करें"
+
+#: admin/manage-gallery.php:377 filter-gallery.php:208 filter-gallery.php:332
+msgid "Image Title"
+msgstr "छवि शीर्षक"
+
+#: admin/manage-gallery.php:387
+msgid "hide or show image title"
+msgstr "छवि शीर्षक छुपाएं या दिखाएं"
+
+#: admin/manage-gallery.php:391
+msgid "Image Title Font Size"
+msgstr "छवि शीर्षक फ़ॉन्ट आकार"
+
+#: admin/manage-gallery.php:397
+msgid "set image title font size"
+msgstr "छवि शीर्षक फ़ॉन्ट आकार सेट करें"
+
+#: admin/manage-gallery.php:401
+msgid "Image Title Color"
+msgstr "छवि शीर्षक रंग"
+
+#: admin/manage-gallery.php:406
+msgid "set image title text color"
+msgstr "छवि शीर्षक टेक्स्ट रंग सेट करें"
+
+#: admin/manage-gallery.php:410
+msgid "Image Title Background Color"
+msgstr "छवि शीर्षक पृष्ठभूमि रंग"
+
+#: admin/manage-gallery.php:415
+msgid "set image title background color"
+msgstr "छवि शीर्षक पृष्ठभूमि रंग सेट करें"
+
+#: admin/manage-gallery.php:419
+msgid "Image Sorting"
+msgstr "छवि छँटाई"
+
+#: admin/manage-gallery.php:423
+msgid "Image ID - Ascending"
+msgstr "छवि आईडी - आरोही"
+
+#: admin/manage-gallery.php:424
+msgid "Image ID - Descending"
+msgstr "छवि आईडी - अवरोही"
+
+#: admin/manage-gallery.php:425
+msgid "None"
+msgstr "कोई नहीं"
+
+#: admin/manage-gallery.php:428
+msgid "set gallery image sorting"
+msgstr "गैलरी छवि छँटाई सेट करें"
+
+#: admin/manage-gallery.php:435
+msgid "Lightbox Settings"
+msgstr "लाइटबॉक्स सेटिंग्स"
+
+#: admin/manage-gallery.php:439
+msgid "Lightbox"
+msgstr "लाइटबॉक्स"
+
+#: admin/manage-gallery.php:443
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: admin/manage-gallery.php:446
+msgid "Disable"
+msgstr "अक्षम"
+
+#: admin/manage-gallery.php:449
+msgid "set lightbox functionality on gallery thumbnail for larger preview"
+msgstr "बड़े पूर्वावलोकन के लिए गैलरी थंबनेल पर लाइटबॉक्स कार्यक्षमता सेट करें"
+
+#: admin/manage-gallery.php:463
+msgid "show image title under the lightbox"
+msgstr "लाइटबॉक्स के नीचे छवि शीर्षक दिखाएं"
+
+#: admin/manage-gallery.php:488
+msgid "Gallery Shortcode"
+msgstr "गैलरी शोर्ट"
+
+#: admin/manage-gallery.php:497
+msgid "Copy Shortcode"
+msgstr "शोर्टकोड कॉपी करें"
+
+#: admin/manage-gallery.php:498
+msgid "Shortcode Copied"
+msgstr "शॉर्टकोड कॉपी किया गया"
+
+#: admin/manage-gallery.php:554 admin/manage-gallery.php:580
+#: filter-gallery.php:197 filter-gallery.php:354
+msgid "Select Filters"
+msgstr "फ़िल्टर का चयन करें"
+
+#: filter-gallery.php:211 filter-gallery.php:335
+msgid "Image Alternative Text"
+msgstr "छवि वैकल्पिक पाठ"
+
+#: filter-gallery.php:217 filter-gallery.php:342
+msgid "Remove"
+msgstr "निकालें"
+
+#~ msgid "Custom CSS"
+#~ msgstr "कस्टम सीएसएस"
+
+#~ msgid "SLIDER LAYOUTS"
+#~ msgstr "स्लाइडर लेआउट"
+
+#~ msgid "All Slider Shortcode"
+#~ msgstr "सभी स्लाइडर शोर्ट"
+
+#~ msgid "Info"
+#~ msgstr "जानकारी"
+
+#~ msgid "Demo"
+#~ msgstr "प्रदर्शन"
+
+#~ msgid "Create"
+#~ msgstr "बनाएं"
+
+#~ msgid "Layout"
+#~ msgstr "ख़ाका"
+
+#~ msgid "Edit Slider"
+#~ msgstr "स्लाइडर को संपादित करें"
+
+#~ msgid "Select Slider Shortcode"
+#~ msgstr "स्लाइडर शोर्ट चुनें"
+
+#~ msgid "Creating Slider With Layout"
+#~ msgstr "लेआउट के साथ स्लाइडर बनाना"
+
+#~ msgid "Save Slider"
+#~ msgstr "स्लाइडर सहेजें"
+
+#~ msgid "Editing Slider Shortcode"
+#~ msgstr "स्लाइडर शार्टकोड का संपादन"
+
+#~ msgid "Build With Layout"
+#~ msgstr "लेआउट के साथ बनाएँ"
+
+#~ msgid "Update Slider"
+#~ msgstr "स्लाइडर को अपडेट करें"
+
+#~ msgid ""
+#~ "Sorry! There is none of the slider layout or shortcode selected to create "
+#~ "or manage."
+#~ msgstr ""
+#~ "माफ़ करना! बनाने या प्रबंधित करने के लिए स्लाइडर लेआउट या शोर्ट में से कोई भी नहीं है।"
+
+#~ msgid "Width"
+#~ msgstr "चौड़ाई"
+
+#~ msgid ""
+#~ "Define the slider width. You can use any unit you like: percent 0% to "
+#~ "100% OR pixels 200px/300px/500px etc."
+#~ msgstr ""
+#~ "स्लाइडर की चौड़ाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर "
+#~ "सकते हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#~ msgid "Height"
+#~ msgstr "ऊंचाई"
+
+#~ msgid ""
+#~ "Define the slider height. You can use any unit you like: percent 0% to "
+#~ "100% OR pixels 200px/300px/500px etc."
+#~ msgstr ""
+#~ "स्लाइडर की ऊंचाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर "
+#~ "सकते हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#~ msgid "Design Preset"
+#~ msgstr "डिजाइन पूर्व निर्धारित"
+
+#~ msgid "One"
+#~ msgstr "एक"
+
+#~ msgid "Two"
+#~ msgstr "दो"
+
+#~ msgid "Three"
+#~ msgstr "तीन"
+
+#~ msgid "Select a predefined design for the slider."
+#~ msgstr "स्लाइडर के लिए एक पूर्वनिर्धारित डिज़ाइन चुनें।"
+
+#~ msgid "Auto Play"
+#~ msgstr "स्वत: प्ले"
+
+#~ msgid "ON"
+#~ msgstr "चालू"
+
+#~ msgid "OFF"
+#~ msgstr "बंद"
+
+#~ msgid "Enable or disable automatic slide show."
+#~ msgstr "स्वचालित स्लाइड शो सक्षम या अक्षम करें।"
+
+#~ msgid "Auto Play Speed"
+#~ msgstr "ऑटो प्ले स्पीड"
+
+#~ msgid "milliseconds"
+#~ msgstr "मिलीसेकेंड"
+
+#~ msgid "Pause On Mouse Hover"
+#~ msgstr "माउस होवर पर रोकें"
+
+#~ msgid "Enable or disable auto play on mouse hover on the slide."
+#~ msgstr "स्लाइड पर माउस होवर पर ऑटो प्ले को सक्षम या अक्षम करें।"
+
+#~ msgid "Infinite Scroll"
+#~ msgstr "अनंत सूची"
+
+#~ msgid ""
+#~ "Enable or disable the full-screen slide show button on the slider to make "
+#~ "the slider full screen."
+#~ msgstr ""
+#~ "स्लाइडर को पूर्ण स्क्रीन बनाने के लिए स्लाइडर पर फ़ुल-स्क्रीन स्लाइड शो बटन को सक्षम या "
+#~ "अक्षम करें।"
+
+#~ msgid "Fade Effect"
+#~ msgstr "फीका प्रभाव"
+
+#~ msgid "Enable or disable fade effect during slide show."
+#~ msgstr "स्लाइड शो के दौरान फीका प्रभाव सक्षम या अक्षम करें।"
+
+#~ msgid "NOTE"
+#~ msgstr "ध्यान दें"
+
+#~ msgid "Fade effect only works with Preset Design 1."
+#~ msgstr "फीका प्रभाव केवल प्रीसेट डिज़ाइन 1 के साथ काम करता है।"
+
+#~ msgid "Adaptive Height"
+#~ msgstr "अनुकूली ऊँचाई"
+
+#~ msgid "Auto fit height of the slide to its original height."
+#~ msgstr "अपनी मूल ऊंचाई तक स्लाइड की ऑटो फिट ऊंचाई।"
+
+#~ msgid "Slider Thumbnail"
+#~ msgstr "स्लाइडर थम्बनेल"
+
+#~ msgid "Hide or display the thumbnails under the slides."
+#~ msgstr "स्लाइड के नीचे थंबनेल छिपाएं या प्रदर्शित करें।"
+
+#~ msgid "Slider Navigation Arrow"
+#~ msgstr "स्लाइडर नेविगेशन एरो"
+
+#~ msgid ""
+#~ "Hide or display next and previous slide navigation arrow button over the "
+#~ "slides."
+#~ msgstr "स्लाइड्स पर अगली और पिछली स्लाइड नेविगेशन एरो बटन को छुपाएं या प्रदर्शित करें।"
+
+#~ msgid "Slider Navigation Dots"
+#~ msgstr "स्लाइडर नेविगेशन डॉट्स"
+
+#~ msgid "Hide or display navigation dots button below the slides."
+#~ msgstr "स्लाइड के नीचे नेविगेशन डॉट्स बटन छिपाएं या प्रदर्शित करें।"
+
+#~ msgid "Slide Order By"
+#~ msgstr "स्लाइड क्रम"
+
+#~ msgid "Slide ID Shuffle"
+#~ msgstr "स्लाइड आईडी शफल"
+
+#~ msgid "Set slide loading order in slide show."
+#~ msgstr "स्लाइड शो में स्लाइड लोडिंग ऑर्डर सेट करें।"
+
+#~ msgid "Select [None] to leave the order as it is above."
+#~ msgstr "जैसा कि ऊपर है ऑर्डर छोड़ने के लिए [कोई नहीं] चुनें।"
+
+#~ msgid "Slide Align"
+#~ msgstr "स्लाइड संरेखित करें"
+
+#~ msgid "Left"
+#~ msgstr "बाएं"
+
+#~ msgid "Center"
+#~ msgstr "केंद्र"
+
+#~ msgid "Right To Left (RTL Support)"
+#~ msgstr "राइट टू लेफ्ट (RTL सपोर्ट)"
+
+#~ msgid ""
+#~ "Enable or disable that option If your website's primary language has the "
+#~ "right to left text like Arabic, Hebrew, Pashto, Persian, Urdu."
+#~ msgstr ""
+#~ "उस विकल्प को सक्षम या अक्षम करें यदि आपकी वेबसाइट की प्राथमिक भाषा में अरबी, हिब्रू, "
+#~ "पश्तो, फारसी, उर्दू जैसे बाएं पाठ का अधिकार है।"
+
+#~ msgid "Apply the custom design code to this slider."
+#~ msgstr "इस स्लाइडर पर कस्टम डिज़ाइन कोड लागू करें।"
+
+#~ msgid "Starting Slide Number"
+#~ msgstr "स्लाइड नंबर शुरू करना"
+
+#~ msgid "Defines which image slide to be the first one to show."
+#~ msgstr "परिभाषित करता है कि कौन सी छवि स्लाइड को दिखाने वाला पहला है।"
+
+#~ msgid ""
+#~ "Slider should jump back to the starting slide number when the mouse "
+#~ "leaves the slider."
+#~ msgstr ""
+#~ "जब स्लाइडर स्लाइडर को छोड़ देता है, तो स्लाइडर को शुरुआती स्लाइड नंबर पर वापस कूदना "
+#~ "चाहिए।"
+
+#~ msgid "Jump Back To Last Clicked Slide"
+#~ msgstr "अंतिम क्लिक स्लाइड पर वापस जाएं"
+
+#~ msgid ""
+#~ "If Jump Back To Slide is active then the image slide should jump back to "
+#~ "the last clicked image slide."
+#~ msgstr ""
+#~ "यदि जंप बैक टू स्लाइड सक्रिय है तो इमेज स्लाइड को अंतिम क्लिक की गई छवि स्लाइड पर "
+#~ "वापस कूदना चाहिए।"
+
+#~ msgid "Set slide loading order in slide show. "
+#~ msgstr "स्लाइड शो में स्लाइड लोडिंग ऑर्डर सेट करें।"
+
+#~ msgid "pixels"
+#~ msgstr "पिक्सल"
+
+#~ msgid "Define the slider height."
+#~ msgstr "स्लाइडर की ऊंचाई को परिभाषित करें।"
+
+#~ msgid "Four"
+#~ msgstr "चार"
+
+#~ msgid "Five"
+#~ msgstr "पांच"
+
+#~ msgid "Six"
+#~ msgstr "छह"
+
+#~ msgid ""
+#~ "Enable or disable that option If your website's primary language has "
+#~ "right to left text like Arabic, Hebrew, Pashto, Persian, Urdu."
+#~ msgstr ""
+#~ "उस विकल्प को सक्षम या अक्षम करें यदि आपकी वेबसाइट की प्राथमिक भाषा में अरबी, हिब्रू, "
+#~ "पश्तो, फारसी, उर्दू जैसे बाएं पाठ का अधिकार है।"
+
+#~ msgid "Set the automatically slide show speed."
+#~ msgstr "स्वचालित रूप से स्लाइड शो की गति निर्धारित करें।"
+
+#~ msgid "Transition Speed"
+#~ msgstr "संक्रमण की गति"
+
+#~ msgid "Set the slide image changing effect speed."
+#~ msgstr "स्लाइड छवि परिवर्तन प्रभाव की गति निर्धारित करें।"
+
+#~ msgid "Gap Between Slides"
+#~ msgstr "स्लाइड्स के बीच गैप"
+
+#~ msgid "Set the space between image slides."
+#~ msgstr "छवि स्लाइड के बीच की जगह सेट करें।"
+
+#~ msgid "Minimum Height"
+#~ msgstr "न्यूनतम ऊंचाई"
+
+#~ msgid "Define the slider minimum height(in px)."
+#~ msgstr "स्लाइडर को न्यूनतम ऊंचाई (px में) परिभाषित करें।"
+
+#~ msgid "You can leave it blank."
+#~ msgstr "आप इसे खाली छोड़ सकते हैं।"
+
+#~ msgid "Auto Play on Mobile"
+#~ msgstr "मोबाइल पर ऑटो चलाएं"
+
+#~ msgid "Enable or disable automatic slide show on mobile."
+#~ msgstr "मोबाइल पर स्वचालित स्लाइड शो को सक्षम या अक्षम करें।"
+
+#~ msgid "Autoplay Time"
+#~ msgstr "ऑटोप्ले समय"
+
+#~ msgid ""
+#~ "Time in milliseconds between the end of the sliding effect and the start "
+#~ "of the next on."
+#~ msgstr "स्लाइडिंग प्रभाव की समाप्ति और अगले की शुरुआत के बीच मिलीसेकंड में समय।"
+
+#~ msgid "Animation time for slide"
+#~ msgstr "स्लाइड के लिए एनीमेशन का समय।"
+
+#~ msgid "Length of the sliding effect in milliseconds."
+#~ msgstr "मिलीसेकंड में स्लाइडिंग प्रभाव की लंबाई।"
+
+#~ msgid "Image Alignment"
+#~ msgstr "छवि संरेखण"
+
+#~ msgid "Select the image alignment for the slide."
+#~ msgstr "स्लाइड के लिए छवि संरेखण चुनें।"
+
+#~ msgid "Portrait Mode"
+#~ msgstr "पोर्ट्रेट मोड"
+
+#~ msgid "If enabled the images will not be cropped."
+#~ msgstr "यदि सक्षम हो तो छवियों को क्रॉप नहीं किया जाएगा।"
+
+#~ msgid "Animation Easing Effect"
+#~ msgstr "एनीमेशन आसान प्रभाव"
+
+#~ msgid "Select the easing effect animation for the slide."
+#~ msgstr "स्लाइड के लिए सहजता प्रभाव एनीमेशन का चयन करें।"
+
+#~ msgid "Animation Easing Effect on Mobile"
+#~ msgstr "मोबाइल पर एनीमेशन आसान प्रभाव"
+
+#~ msgid "Select the easing effect animation for the slide on mobile."
+#~ msgstr "मोबाइल पर स्लाइड के लिए सहजता प्रभाव एनीमेशन का चयन करें।"
+
+#~ msgid ""
+#~ "Leave [None] if you want to display the same easing on mobile devices and "
+#~ "on desktop etc."
+#~ msgstr ""
+#~ "छोड़ दो [कोई नहीं] यदि आप मोबाइल उपकरणों और डेस्कटॉप आदि पर समान सहजता प्रदर्शित "
+#~ "करना चाहते हैं।"
+
+#~ msgid "Animation FX Effect"
+#~ msgstr "एनीमेशन एफएक्स प्रभाव"
+
+#~ msgid "Select the animation FX effect for the slide."
+#~ msgstr "स्लाइड के लिए एनीमेशन एफएक्स प्रभाव का चयन करें।"
+
+#~ msgid "Animation FX Effect on Mobile"
+#~ msgstr "मोबाइल पर एनिमेशन एफएक्स प्रभाव"
+
+#~ msgid "Select the animation FX effect for the slide on mobile."
+#~ msgstr "मोबाइल पर स्लाइड के लिए एनीमेशन एफएक्स प्रभाव का चयन करें।"
+
+#~ msgid ""
+#~ "Leave [None] if you want to display the same FX on mobile devices and on "
+#~ "desktop etc."
+#~ msgstr ""
+#~ "[कोई नहीं] छोड़ें यदि आप मोबाइल उपकरणों और डेस्कटॉप आदि पर एक ही एफएक्स प्रदर्शित "
+#~ "करना चाहते हैं।"
+
+#~ msgid "Slide On"
+#~ msgstr "इस पर फिसलो"
+
+#~ msgid "Random"
+#~ msgstr "क्रमरहित"
+
+#~ msgid "Next"
+#~ msgstr "अगला"
+
+#~ msgid "Previous"
+#~ msgstr "पिछला"
+
+#~ msgid ""
+#~ "Decide if the transition effect will be applied to the current (prev) or "
+#~ "the next slide."
+#~ msgstr "तय करें कि क्या संक्रमण प्रभाव वर्तमान (मौजूदा) या अगली स्लाइड पर लागू होगा।"
+
+#~ msgid "No. of Columns in Grid Animations"
+#~ msgstr "ग्रिड एनिमेशन में कॉलम की संख्या"
+
+#~ msgid "Columns"
+#~ msgstr "कॉलम"
+
+#~ msgid "No. of columns. in grid type animation."
+#~ msgstr "स्तंभों की संख्या। ग्रिड प्रकार एनीमेशन में।"
+
+#~ msgid "Works with grid type animations."
+#~ msgstr "ग्रिड प्रकार एनिमेशन के साथ काम करता है।"
+
+#~ msgid "No. of Rows  in Grid Animations"
+#~ msgstr "ग्रिड एनिमेशन में पंक्तियों की संख्या"
+
+#~ msgid "Rows"
+#~ msgstr "पंक्तियों"
+
+#~ msgid "No. of rows. in grid type animation."
+#~ msgstr "पंक्तियों की संख्या। ग्रिड प्रकार एनीमेशन में।"
+
+#~ msgid "Animation time for each Grid in Grid Animation"
+#~ msgstr "ग्रिड एनीमेशन में प्रत्येक ग्रिड के लिए एनीमेशन का समय"
+
+#~ msgid ""
+#~ "To make the grid blocks slower than the slices, this value must be "
+#~ "smaller than Transition Period"
+#~ msgstr ""
+#~ "ग्रिड ब्लॉक को स्लाइस की तुलना में धीमा बनाने के लिए, यह मान संक्रमण अवधि से छोटा "
+#~ "होना चाहिए"
+
+#~ msgid "No. of Columns in Sliced Animations"
+#~ msgstr "कटा हुआ एनिमेशन में कॉलम की संख्या"
+
+#~ msgid "No. of sliced columns in sliced type animations."
+#~ msgstr "कटा हुआ प्रकार एनिमेशन में कटा हुआ कॉलम की संख्या।"
+
+#~ msgid "Works with sliced type animations."
+#~ msgstr "कटा हुआ प्रकार एनिमेशन के साथ काम करता है।"
+
+#~ msgid "No. of Rows in Sliced Animations"
+#~ msgstr "कटा हुआ एनिमेशन में पंक्तियों की संख्या"
+
+#~ msgid "No. of sliced rows in sliced type animations."
+#~ msgstr "कटा हुआ प्रकार एनिमेशन में कटा हुआ पंक्तियों की संख्या।"
+
+#~ msgid "Pause On Mouse Click"
+#~ msgstr "माउस क्लिक पर रोकें"
+
+#~ msgid "Enable or disable pause on mouse click on the slide."
+#~ msgstr "माउस पर माउस क्लिक पर पॉज़ को सक्षम या अक्षम करें।"
+
+#~ msgid "Loader Type"
+#~ msgstr "लोडर प्रकार"
+
+#~ msgid "Pie"
+#~ msgstr "पाई"
+
+#~ msgid "Bar"
+#~ msgstr "बार"
+
+#~ msgid "Select the slide loader type."
+#~ msgstr "स्लाइड लोडर प्रकार का चयन करें।"
+
+#~ msgid "HEX"
+#~ msgstr "हेक्स"
+
+#~ msgid "Diameter of Pie Loader"
+#~ msgstr "पाई लोडर का व्यास"
+
+#~ msgid "px"
+#~ msgstr "पिक्सल"
+
+#~ msgid "Set the diameter of the pie loader."
+#~ msgstr "पाई लोडर का व्यास निर्धारित करें।"
+
+#~ msgid "Works with Pie Loader enabled."
+#~ msgstr "पाई लोडर के साथ काम करता है सक्षम।"
+
+#~ msgid "Pie Loader Position"
+#~ msgstr "पाई लोडर की स्थिति"
+
+#~ msgid "Right Top"
+#~ msgstr "दांया शीर्ष"
+
+#~ msgid "Left Top"
+#~ msgstr "बाएँ शीर्ष"
+
+#~ msgid "Left Bottom"
+#~ msgstr "बायां नीचे"
+
+#~ msgid "Right Bottom"
+#~ msgstr "ठीक नीचे"
+
+#~ msgid "Select the pie loader position."
+#~ msgstr "पाई लोडर की स्थिति चुनें।"
+
+#~ msgid "Bar Loader Direction"
+#~ msgstr "बार लोडर दिशा"
+
+#~ msgid "Left To Right"
+#~ msgstr "बाएं से दाएं"
+
+#~ msgid "Right To Left"
+#~ msgstr "दाएं से बाएं"
+
+#~ msgid "Top To Bottom"
+#~ msgstr "ऊपर से नीचे"
+
+#~ msgid "Bottom To Top"
+#~ msgstr "नीचे से ऊपर"
+
+#~ msgid "Select the bar loader direction."
+#~ msgstr "बार लोडर दिशा का चयन करें।"
+
+#~ msgid "Works with Bar Loader enabled."
+#~ msgstr "बार लोडर सक्षम के साथ काम करता है।"
+
+#~ msgid "Bar Loader Position"
+#~ msgstr "बार लोडर की स्थिति"
+
+#~ msgid "Bottom"
+#~ msgstr "नीचे"
+
+#~ msgid "Top"
+#~ msgstr "ऊपर"
+
+#~ msgid "Select the bar loader position."
+#~ msgstr "बार लोडर की स्थिति का चयन करें।"
+
+#~ msgid "Enable or disable next/prev buttons on slides."
+#~ msgstr "स्लाइड पर अगले / प्रचलित बटन को सक्षम या अक्षम करें।"
+
+#~ msgid "Show Next/Prev Buttons on Hover"
+#~ msgstr "होवर पर अगला / पिछला बटन दिखाएं"
+
+#~ msgid "Show next/prev buttons only on hover."
+#~ msgstr "अगले / प्रचलित बटन केवल होवर पर दिखाएं।"
+
+#~ msgid "Show Next/Prev Buttons on Hover for Mobile"
+#~ msgstr "मोबाइल के लिए होवर पर अगला / पिछला बटन दिखाएं"
+
+#~ msgid "Show next/prev buttons only on hover for mobiles."
+#~ msgstr "केवल मोबाइलों के लिए होवर पर अगले / प्रचलित बटन दिखाएं।"
+
+#~ msgid "Show Play/Pause Button"
+#~ msgstr "शो चलाएं / रोकें बटन"
+
+#~ msgid "Enable or disable play/pause button on slides."
+#~ msgstr "स्लाइड पर प्ले / पॉज़ बटन को सक्षम या अक्षम करें।"
+
+#~ msgid "Dots"
+#~ msgstr "डॉट्स"
+
+#~ msgid "Select the pagination style."
+#~ msgstr "पेजेशन स्टाइल का चयन करें।"
+
+#~ msgid "Show/Hide Captions on Mobile"
+#~ msgstr "मोबाइल पर कैप्शन दिखाएं / छिपाएं"
+
+#~ msgid "Enable or disable Title/Description on mobile/screen screens."
+#~ msgstr "मोबाइल / स्क्रीन स्क्रीन पर शीर्षक / विवरण सक्षम या अक्षम करें।"
+
+#~ msgid "Coverflow"
+#~ msgstr "कवर फ्लो"
+
+#~ msgid "Carousel"
+#~ msgstr "हिंडोला"
+
+#~ msgid "Wheel"
+#~ msgstr "पहिया"
+
+#~ msgid "Flat"
+#~ msgstr "फ्लैट"
+
+#~ msgid "Loop"
+#~ msgstr "लूप"
+
+#~ msgid "Enable or disable loop around slides."
+#~ msgstr "स्लाइड के चारों ओर लूप को सक्षम या अक्षम करें।"
+
+#~ msgid "Fade In Speed"
+#~ msgstr "गति में फीका"
+
+#~ msgid "Speed of the fade in animation after items have been setup."
+#~ msgstr "आइटम सेट होने के बाद एनीमेशन में फीका होने की गति।"
+
+#~ msgid "Click"
+#~ msgstr "क्लिक"
+
+#~ msgid "Enable or disable clicking an item switches to that item."
+#~ msgstr "उस आइटम पर किसी आइटम स्विच को क्लिक करने में सक्षम या अक्षम करें।"
+
+#~ msgid "Keyboard Arrow Keys"
+#~ msgstr "कीबोर्ड एरो कीज़"
+
+#~ msgid "Enable left/right arrow navigation."
+#~ msgstr "बाएँ / दाएँ तीर नेविगेशन सक्षम करें।"
+
+#~ msgid "Scrool Wheel"
+#~ msgstr "पहिया घुमाएं"
+
+#~ msgid ""
+#~ "Enable mousewheel/trackpad navigation; up/left = previous, down/right = "
+#~ "next."
+#~ msgstr ""
+#~ "माउसव्हील / ट्रैकपैड नेविगेशन सक्षम करें; ऊपर / बाएं = पिछला, नीचे / दायां = अगला।"
+
+#~ msgid "Touch"
+#~ msgstr "टच"
+
+#~ msgid "Enable swipe navigation for touch devices."
+#~ msgstr "स्पर्श उपकरणों के लिए स्वाइप नेविगेशन सक्षम करें।"
+
+#~ msgid "Navigation"
+#~ msgstr "नेविगेशन"
+
+#~ msgid "Before Slider"
+#~ msgstr "स्लाइडर से पहले"
+
+#~ msgid "After Slider"
+#~ msgstr "स्लाइडर के बाद"
+
+#~ msgid ""
+#~ "Values [before] will insert the navigation before the items, [after] will "
+#~ "append the navigation after the items."
+#~ msgstr ""
+#~ "मान [पहले] आइटम से पहले नेविगेशन सम्मिलित करेगा, [बाद] आइटम के बाद नेविगेशन को जोड़ "
+#~ "देगा।"
+
+#~ msgid "Prev/Next Buttons"
+#~ msgstr "पिछला / अगला बटन"
+
+#~ msgid ""
+#~ "If true, Flipster will insert Previous / Next buttons with SVG arrows."
+#~ msgstr "यदि सही है, तो फ्लिप्कार एसवीजी तीर के साथ पिछला / अगला बटन डालेगा।"
+
+#~ msgid "Slide Dots"
+#~ msgstr "स्लाइड डॉट्स"
+
+#~ msgid "Responsive Slider"
+#~ msgstr "उत्तरदायी स्लाइडर"
+
+#~ msgid "Slide Loading Direction"
+#~ msgstr "स्लाइड लोडिंग दिशा"
+
+#~ msgid "Horizontal"
+#~ msgstr "क्षैतिज"
+
+#~ msgid "Vertical"
+#~ msgstr "खड़ा"
+
+#~ msgid "All Four Side Clockwise"
+#~ msgstr "सभी चार पक्ष दक्षिणावर्त"
+
+#~ msgid "Slider Title"
+#~ msgstr "स्लाइड शीर्षक"
+
+#~ msgid "Type A Name Of The Slider"
+#~ msgstr "स्लाइडर का नाम टाइप करें"
+
+#~ msgid "Add New Image Slides"
+#~ msgstr "नई छवि स्लाइड जोड़ें"
+
+#~ msgid "Remove All Image Slides"
+#~ msgstr "सभी छवि स्लाइड निकालें"
+
+#~ msgid "Slide Title"
+#~ msgstr "स्लाइड शीर्षक"
+
+#~ msgid "Slide Button 1 URL"
+#~ msgstr "स्लाइड बटन 1 URL"
+
+#~ msgid "Slide Button 2 URL"
+#~ msgstr "स्लाइड बटन 2 URL"
+
+#~ msgid "Slide Image SEO Text"
+#~ msgstr "स्लाइड छवि एसईओ पाठ"
+
+#~ msgid "Slider Setting For Layout"
+#~ msgstr "स्लाइडर सेटिंग लेआउट के लिए"
+
+#~ msgid "Loading..."
+#~ msgstr "लोड हो रहा है..."
+
+#~ msgid "Click To Copy Shortcode"
+#~ msgstr "शोर्ट कॉपी करने के लिए क्लिक करें"
+
+#~ msgid "Slider Factory Pro"
+#~ msgstr "स्लाइडर फैक्टरी प्रो"
+
+#~ msgid "Upload Slide Images"
+#~ msgstr "स्लाइड चित्र अपलोड करें"
+
+#~ msgid "Flickr User ID"
+#~ msgstr "फ़्लिकर उपयोगकर्ता आईडी"
+
+#, fuzzy
+#~| msgid "How To Get Your User ID?"
+#~ msgid "How To Get Your User ID"
+#~ msgstr "अपना यूजर आईडी कैसे प्राप्त करें"
+
+#~ msgid "Flickr API Key"
+#~ msgstr "फ़्लिकर एपीआई कुंजी"
+
+#, fuzzy
+#~| msgid "How To Get Your API Key?"
+#~ msgid "How To Get Your API Key"
+#~ msgstr "अपनी एपीआई कुंजी कैसे प्राप्त करें"
+
+#~ msgid "Docs"
+#~ msgstr "दस्तावेज़"
+
+#~ msgid "All Flickr Gallery"
+#~ msgstr "सभी फ़्लिकर गैलरी"
+
+#~ msgid "Add Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी जोड़ें"
+
+#~ msgid "Search Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी खोजें"
+
+#~ msgid "Flickr Gallery Not found"
+#~ msgstr "फ़्लिकर गैलरी नहीं मिली"
+
+#~ msgid "Flickr Gallery Not found in Trash"
+#~ msgstr "फ्लिकर गैलरी ट्रैश में नहीं मिली"
+
+#~ msgid "Custom Post Type For Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी के लिए कस्टम पोस्ट प्रकार"
+
+#~ msgid ""
+#~ "Copy & Embed shotcode into any Page/ Post / Text Widget to display your "
+#~ "flickr gallery on your site."
+#~ msgstr ""
+#~ "अपनी साइट पर अपनी फ़्लिकर गैलरी प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट "
+#~ "विजेट में कॉपीकोड एम्बेड करें और एम्बेड करें।"
+
+#, fuzzy
+#~| msgid "Show / Hide gallery post title."
+#~ msgid "Show / Hide Your Flickr Profile"
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#, fuzzy
+#~| msgid "A. Gallery Title Color"
+#~ msgid "I. Profile Title Color"
+#~ msgstr "अ. गैलरी शीर्षक रंग"
+
+#, fuzzy
+#~| msgid "Flickr Gallery Type"
+#~ msgid "2. Flickr Gallery Type"
+#~ msgstr "फ़्लिकर गैलरी प्रकार"
+
+#~ msgid "Photostream"
+#~ msgstr "फोटो धारा"
+
+#~ msgid "Album"
+#~ msgstr "एल्बम"
+
+#, fuzzy
+#~| msgid "I. All Flickr Albums"
+#~ msgid "I. All My Flickr Albums"
+#~ msgstr "I. सभी फ़्लिकर एल्बम"
+
+#~ msgid "Select an album gallery to display into gallery."
+#~ msgstr "गैलरी में प्रदर्शित करने के लिए एक एल्बम गैलरी का चयन करें।"
+
+#~ msgid "Select the color of the gallery post title."
+#~ msgstr "गैलरी पोस्ट शीर्षक का रंग चुनें।"
+
+#~ msgid "B. Gallery Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#~ msgid "Set the gallery post title font size"
+#~ msgstr "गैलरी पोस्ट शीर्षक फ़ॉन्ट आकार सेट करें"
+
+#~ msgid "C. Gallery Title Text Alignment"
+#~ msgstr "स. गैलरी शीर्षक पाठ संरेखण"
+
+#~ msgid "Set alignment of gallery post title."
+#~ msgstr "गैलरी पोस्ट शीर्षक के संरेखण सेट करें।"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "II. Colums On Large Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Large Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#~ msgid "Sets the columns on the Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Tablets"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "V. Colums On Phones"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Phones"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#~ msgid "B. Lightbox Preview Image Size"
+#~ msgstr "ब. लाइटबॉक्स पूर्वावलोकन छवि का आकार"
+
+#~ msgid "Set lightbox image preview size when click on thumbnail"
+#~ msgstr "थंबनेल पर क्लिक करते समय लाइटबॉक्स छवि पूर्वावलोकन आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Set thumbnail image size for gallery output"
+#~ msgid "Set a image order for flickr gallery"
+#~ msgstr "गैलरी आउटपुट के लिए थंबनेल छवि आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Light Image Gallery"
+#~ msgid "4. Light Image Gallery"
+#~ msgstr "लाइट इमेज गैलरी"
+
+#, fuzzy
+#~| msgid "Show / Hide gallery post title."
+#~ msgid "Show / Hide light gallery image light box."
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#, fuzzy
+#~| msgid "B. Gallery Title Font Size"
+#~ msgid "C. Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#~ msgid "%s rating"
+#~ msgstr "%s रेटिंग"
+
+#~ msgid "Get More Free WordPress Plugin From A WP Life"
+#~ msgstr "ए ड़बल्युपी लाइफ से अधिक मुफ्त वर्डप्रेस प्लगइन प्राप्त करें"
+
+#~ msgid "More Details"
+#~ msgstr "अधिक जानकारी"
+
+#~ msgid "Install Now"
+#~ msgstr "अभी स्थापित करें"
+
+#~ msgid "By "
+#~ msgstr "द्वारा"
+
+#~ msgid "Last Updated:"
+#~ msgstr "आखरी अपडेट:"
+
+#~ msgid "Buy Premium Plugin"
+#~ msgstr "प्रीमियम प्लगइन खरीदें"
+
+#~ msgid "Featured Plugin"
+#~ msgstr "फीचर्ड प्लगइन"
+
+#~ msgid "Our Theme"
+#~ msgstr "हमारी थीम"
+
+#~ msgid "Rate Our Plugin"
+#~ msgstr "हमारे प्लगइन को रेट करें"
+
+#~ msgid "First set your Flickr User ID and API Key on"
+#~ msgstr "पहले अपनी फ़्लिकर उपयोगकर्ता आईडी और एपीआई कुंजी सेट करें"
+
+#~ msgid "Page."
+#~ msgstr "पृष्ठ"
+
+#~ msgid "3 Column Layout"
+#~ msgstr "3 कॉलम लेआउट"
+
+#~ msgid "4 Column Layout"
+#~ msgstr "4 कॉलम लेआउट"
+
+#~ msgid "Square - 75x75"
+#~ msgstr "वर्ग - 75x75"
+
+#~ msgid "Large Square - 150x150"
+#~ msgstr "बड़ा वर्ग - 150x150"
+
+#~ msgid "Thumbnail - 100x75"
+#~ msgstr "थंबनेल - 100x75"
+
+#~ msgid "Small - 240x180"
+#~ msgstr "छोटा - 240x180"
+
+#~ msgid "Medium - 500x375"
+#~ msgstr "मध्यम - 500x375"
+
+#~ msgid "Large - 1024x768"
+#~ msgstr "बड़ा - 1024x768"
+
+#~ msgid "Light Box Preview"
+#~ msgstr "ब. लाइटबॉक्स पूर्वावलोकन छवि का आकार"
+
+#~ msgid ""
+#~ "Enable / Disable light gallery image light box for larger image preview."
+#~ msgstr "लाइट गैलरी छवि लाइट बॉक्स दिखाएँ / छुपाएं।"

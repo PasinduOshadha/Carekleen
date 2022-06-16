@@ -1,0 +1,82 @@
+.popup{
+    &-wrapper{
+        display: none;
+        overflow: hidden;
+    }
+    &-overlay{
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: rgba(0,0,0,0.85);
+        min-height: 100vh;
+        overflow: hidden;
+        z-index: 99;
+        padding-top: 5%;
+        overflow: hidden;
+        // sdisplay: none;
+    }
+    &-container{
+        width: 70vw;
+        border-radius: 10px;
+        max-width: 940px;
+        margin-left: auto;
+        margin-right: auto;
+        z-index: 100;
+        position: absolute;
+        top: 10%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center; 
+        @media screen and (max-width: 1024px){
+            width: 90%;
+        }
+    }
+    &-row{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        min-height: 400px;
+        @media screen and(max-width: 1024px){
+            flex-direction: column;
+        }
+    }
+    &-col-left{
+        width: 60%;
+        background-color: $accent-color;
+        background: url('../../img/pexels-matilda-wormwood-4098778\ 2.png');
+        background-position: center;
+        background-size: cover;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    &-col-right{
+        width: 40%;
+        background-color: $primary-color;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        position: relative;
+        @media screen and (max-width: 1024px){
+            width: 100%;
+            border-radius: 0;
+        }
+    }
+    &-close-btn{
+        color: $primary-color;
+        background-color: #fff;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 12px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 3px 5px;
+        border-top-right-radius: 10px;
+        cursor: pointer;
+        @media screen and (max-width: 1024px){
+            border-radius: 0;
+        }
+    }
+}

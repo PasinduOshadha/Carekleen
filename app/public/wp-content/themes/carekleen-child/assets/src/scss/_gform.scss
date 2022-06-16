@@ -1,0 +1,55 @@
+.gform_wrapper {
+  border-radius: 10px;
+  form {
+    background: #012c63;
+    padding: 35px 35px;
+    border-radius: 10px;
+    &.contact-us-page-form{
+        transform: translateY(-50px);
+    }
+    &.request-a-quote-form{
+        max-width: 450px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .gform-title{
+        color: #fff;
+        font-size: 24px;
+    }
+    .gfield{
+        margin-bottom: 10px;
+    }
+    .gfield select{
+        background: #002453;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+    }
+    .chosen-container .chosen-single{
+        background: #002453 !important;
+        color: rgba(255, 255, 255, 0.64) !important;
+        border: none !important;
+        border-radius: 5px !important;
+        box-shadow: none !important;
+        span{
+            color: rgba(255, 255, 255, 0.64);
+            font-size: 15px;
+            font-weight: 400;
+        }
+    }
+    .gfield input,
+    .gfield textarea {
+        background: #002453;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        width: 100% !important;
+        padding: 10px 15px !important;
+
+      &::placeholder {
+        color: rgba(255, 255, 255, 0.64);
+      }
+    }
+  }
+}

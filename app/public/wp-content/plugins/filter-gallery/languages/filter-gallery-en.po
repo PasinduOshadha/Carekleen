@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: स्लाइडर फैक्टरी प्रीमियम\n"
+"POT-Creation-Date: 2021-06-24 15:51+0530\n"
+"PO-Revision-Date: 2021-06-24 15:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/galleries.php:22 filter-gallery.php:78
+msgid "Filter Gallery"
+msgstr ""
+
+#: admin/galleries.php:25
+msgid "Create New Gallery"
+msgstr ""
+
+#: admin/galleries.php:33 admin/galleries.php:85 admin/manage-gallery.php:453
+msgid "Title"
+msgstr ""
+
+#: admin/galleries.php:34 admin/galleries.php:86 admin/manage-gallery.php:480
+msgid "Shortcode"
+msgstr ""
+
+#: admin/galleries.php:35 admin/galleries.php:87
+msgid "Actions"
+msgstr ""
+
+#: admin/galleries.php:36
+msgid "Select All Galleries"
+msgstr ""
+
+#: admin/galleries.php:64
+msgid "Click To Copy Gallery Shortcode"
+msgstr ""
+
+#: admin/galleries.php:64
+msgid "Copy"
+msgstr ""
+
+#: admin/galleries.php:65
+msgid "Copied"
+msgstr ""
+
+#: admin/galleries.php:68
+msgid "Clone Gallery"
+msgstr ""
+
+#: admin/galleries.php:70
+msgid "Delete Gallery"
+msgstr ""
+
+#: admin/galleries.php:73
+msgid "Select Gallery"
+msgstr ""
+
+#: admin/galleries.php:88
+msgid "Delete Selected Gallery"
+msgstr ""
+
+#: admin/manage-gallery.php:51
+msgid "Create and Manage Filters For Gallery"
+msgstr ""
+
+#: admin/manage-gallery.php:55
+msgid "Gallery Name / Title"
+msgstr ""
+
+#: admin/manage-gallery.php:62 admin/manage-gallery.php:151
+#: admin/manage-gallery.php:180
+msgid "Filters"
+msgstr ""
+
+#: admin/manage-gallery.php:72
+msgid "Filter Name"
+msgstr ""
+
+#: admin/manage-gallery.php:77
+msgid "Type Filter Name"
+msgstr ""
+
+#: admin/manage-gallery.php:89
+msgid "Update"
+msgstr ""
+
+#: admin/manage-gallery.php:90
+msgid "Add"
+msgstr ""
+
+#: admin/manage-gallery.php:93
+msgid "Important Note"
+msgstr ""
+
+#: admin/manage-gallery.php:94
+msgid "Only FIRST FIVE FILTERS will be usable and display in output gallery."
+msgstr ""
+
+#: admin/manage-gallery.php:95
+msgid "Create only parent level filters. Child filters are Pro feature."
+msgstr ""
+
+#: admin/manage-gallery.php:96
+msgid "You can create five filters only. Upgrade to Pro for unlimited."
+msgstr ""
+
+#: admin/manage-gallery.php:97
+msgid ""
+"Editing and updating filter after assigning to images will lead to reassign."
+msgstr ""
+
+#: admin/manage-gallery.php:98
+msgid "Do not use any symbol in filter name like"
+msgstr ""
+
+#: admin/manage-gallery.php:110 admin/manage-gallery.php:154
+#: admin/manage-gallery.php:477
+msgid "Save"
+msgstr ""
+
+#: admin/manage-gallery.php:113 admin/manage-gallery.php:474
+msgid "Gallery"
+msgstr ""
+
+#: admin/manage-gallery.php:123
+msgid "Upload Images to Gallery And Apply Filters"
+msgstr ""
+
+#: admin/manage-gallery.php:129
+msgid "Remove All"
+msgstr ""
+
+#: admin/manage-gallery.php:141
+msgid "Upload Images"
+msgstr ""
+
+#: admin/manage-gallery.php:157 admin/manage-gallery.php:504
+msgid "Settings"
+msgstr ""
+
+#: admin/manage-gallery.php:166
+msgid "Configure Settings"
+msgstr ""
+
+#: admin/manage-gallery.php:170
+#, fuzzy
+msgid "Filter Settings"
+msgstr "फ़्लिकर एपीआई सेटिंग्स"
+
+#: admin/manage-gallery.php:184 admin/manage-gallery.php:198
+#: admin/manage-gallery.php:348 admin/manage-gallery.php:381
+#: admin/manage-gallery.php:457
+msgid "Show"
+msgstr ""
+
+#: admin/manage-gallery.php:187 admin/manage-gallery.php:201
+#: admin/manage-gallery.php:351 admin/manage-gallery.php:384
+#: admin/manage-gallery.php:460
+msgid "Hide"
+msgstr ""
+
+#: admin/manage-gallery.php:190
+msgid "hide and show filter above gallery"
+msgstr ""
+
+#: admin/manage-gallery.php:194
+msgid "All Button"
+msgstr ""
+
+#: admin/manage-gallery.php:204
+msgid "hide and show all filter button"
+msgstr ""
+
+#: admin/manage-gallery.php:208
+msgid "All Button Title"
+msgstr ""
+
+#: admin/manage-gallery.php:209 setting.php:39
+msgid "All"
+msgstr ""
+
+#: admin/manage-gallery.php:211
+msgid "type name"
+msgstr ""
+
+#: admin/manage-gallery.php:213
+msgid "set all filter button title"
+msgstr ""
+
+#: admin/manage-gallery.php:217
+msgid "All Button Color"
+msgstr ""
+
+#: admin/manage-gallery.php:222 admin/manage-gallery.php:231
+msgid "set background color of all filter button"
+msgstr ""
+
+#: admin/manage-gallery.php:226
+msgid "All Button Background Color"
+msgstr ""
+
+#: admin/manage-gallery.php:234
+msgid "Parent Filter Button Color"
+msgstr ""
+
+#: admin/manage-gallery.php:239
+msgid "set background color of parent filter button"
+msgstr ""
+
+#: admin/manage-gallery.php:242
+msgid "Parent Filters Button Background Color"
+msgstr ""
+
+#: admin/manage-gallery.php:247
+msgid "set background color of parent filter background button."
+msgstr ""
+
+#: admin/manage-gallery.php:254
+msgid "Gallery Settings"
+msgstr ""
+
+#: admin/manage-gallery.php:258
+msgid "Columns On Desktop"
+msgstr ""
+
+#: admin/manage-gallery.php:262 admin/manage-gallery.php:285
+#: admin/manage-gallery.php:302
+msgid "3"
+msgstr ""
+
+#: admin/manage-gallery.php:265
+msgid "4"
+msgstr ""
+
+#: admin/manage-gallery.php:268
+msgid "6"
+msgstr ""
+
+#: admin/manage-gallery.php:271
+msgid "columns to display on desktop or pc device"
+msgstr ""
+
+#: admin/manage-gallery.php:275
+msgid "Columns On Tablet"
+msgstr ""
+
+#: admin/manage-gallery.php:279 admin/manage-gallery.php:296
+#: admin/manage-gallery.php:313
+msgid "1"
+msgstr ""
+
+#: admin/manage-gallery.php:282 admin/manage-gallery.php:299
+#: admin/manage-gallery.php:316
+msgid "2"
+msgstr ""
+
+#: admin/manage-gallery.php:288
+msgid "columns to display on tablet device"
+msgstr ""
+
+#: admin/manage-gallery.php:292
+msgid "Columns On Mobile - Landscape Mode"
+msgstr ""
+
+#: admin/manage-gallery.php:305
+msgid "columns to display on mobile device with landscape mode"
+msgstr ""
+
+#: admin/manage-gallery.php:309
+msgid "Columns On Mobile - Portrait Mode"
+msgstr ""
+
+#: admin/manage-gallery.php:319
+msgid "columns to display on mobile device with portrait mode"
+msgstr ""
+
+#: admin/manage-gallery.php:323
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: admin/manage-gallery.php:327
+msgid "Small"
+msgstr ""
+
+#: admin/manage-gallery.php:328
+msgid "Medium"
+msgstr ""
+
+#: admin/manage-gallery.php:329
+msgid "Large"
+msgstr ""
+
+#: admin/manage-gallery.php:330
+msgid "Original"
+msgstr ""
+
+#: admin/manage-gallery.php:331 admin/manage-gallery.php:332
+#: admin/manage-gallery.php:333
+msgid "Same Size"
+msgstr ""
+
+#: admin/manage-gallery.php:336
+msgid "set thumbnail image size"
+msgstr ""
+
+#: admin/manage-gallery.php:338
+msgid "Note"
+msgstr ""
+
+#: admin/manage-gallery.php:339
+msgid ""
+"Same size setting will only work with newly images uploaded after the plugin "
+"installation."
+msgstr ""
+
+#: admin/manage-gallery.php:340
+msgid "It will not work previously uploaded images."
+msgstr ""
+
+#: admin/manage-gallery.php:344
+msgid "Thumbnail Border"
+msgstr ""
+
+#: admin/manage-gallery.php:354
+msgid "show or hide thumbnail border"
+msgstr ""
+
+#: admin/manage-gallery.php:358
+msgid "Thumbnail Border Thickness"
+msgstr ""
+
+#: admin/manage-gallery.php:364
+msgid "set thumbnail border thickness"
+msgstr ""
+
+#: admin/manage-gallery.php:368
+msgid "Thumbnail Border Color"
+msgstr ""
+
+#: admin/manage-gallery.php:373
+msgid "set thumbnail border color"
+msgstr ""
+
+#: admin/manage-gallery.php:377 filter-gallery.php:208 filter-gallery.php:332
+msgid "Image Title"
+msgstr ""
+
+#: admin/manage-gallery.php:387
+msgid "hide or show image title"
+msgstr ""
+
+#: admin/manage-gallery.php:391
+msgid "Image Title Font Size"
+msgstr ""
+
+#: admin/manage-gallery.php:397
+msgid "set image title font size"
+msgstr ""
+
+#: admin/manage-gallery.php:401
+msgid "Image Title Color"
+msgstr ""
+
+#: admin/manage-gallery.php:406
+msgid "set image title text color"
+msgstr ""
+
+#: admin/manage-gallery.php:410
+msgid "Image Title Background Color"
+msgstr ""
+
+#: admin/manage-gallery.php:415
+msgid "set image title background color"
+msgstr ""
+
+#: admin/manage-gallery.php:419
+msgid "Image Sorting"
+msgstr ""
+
+#: admin/manage-gallery.php:423
+msgid "Image ID - Ascending"
+msgstr ""
+
+#: admin/manage-gallery.php:424
+msgid "Image ID - Descending"
+msgstr ""
+
+#: admin/manage-gallery.php:425
+msgid "None"
+msgstr ""
+
+#: admin/manage-gallery.php:428
+msgid "set gallery image sorting"
+msgstr ""
+
+#: admin/manage-gallery.php:435
+msgid "Lightbox Settings"
+msgstr ""
+
+#: admin/manage-gallery.php:439
+msgid "Lightbox"
+msgstr ""
+
+#: admin/manage-gallery.php:443
+msgid "Enable"
+msgstr ""
+
+#: admin/manage-gallery.php:446
+msgid "Disable"
+msgstr ""
+
+#: admin/manage-gallery.php:449
+msgid "set lightbox functionality on gallery thumbnail for larger preview"
+msgstr ""
+
+#: admin/manage-gallery.php:463
+msgid "show image title under the lightbox"
+msgstr ""
+
+#: admin/manage-gallery.php:488
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: admin/manage-gallery.php:497
+msgid "Copy Shortcode"
+msgstr ""
+
+#: admin/manage-gallery.php:498
+msgid "Shortcode Copied"
+msgstr ""
+
+#: admin/manage-gallery.php:554 admin/manage-gallery.php:580
+#: filter-gallery.php:197 filter-gallery.php:354
+msgid "Select Filters"
+msgstr ""
+
+#: filter-gallery.php:211 filter-gallery.php:335
+msgid "Image Alternative Text"
+msgstr ""
+
+#: filter-gallery.php:217 filter-gallery.php:342
+msgid "Remove"
+msgstr ""
+
+#~ msgid "Flickr User ID"
+#~ msgstr "फ़्लिकर उपयोगकर्ता आईडी"
+
+#, fuzzy
+#~| msgid "How To Get Your User ID?"
+#~ msgid "How To Get Your User ID"
+#~ msgstr "अपना यूजर आईडी कैसे प्राप्त करें"
+
+#~ msgid "Flickr API Key"
+#~ msgstr "फ़्लिकर एपीआई कुंजी"
+
+#, fuzzy
+#~| msgid "How To Get Your API Key?"
+#~ msgid "How To Get Your API Key"
+#~ msgstr "अपनी एपीआई कुंजी कैसे प्राप्त करें"
+
+#~ msgid "Docs"
+#~ msgstr "दस्तावेज़"
+
+#~ msgid "Add Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी जोड़ें"
+
+#~ msgid "Search Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी खोजें"
+
+#~ msgid "Flickr Gallery Not found in Trash"
+#~ msgstr "फ्लिकर गैलरी ट्रैश में नहीं मिली"
+
+#~ msgid "Custom Post Type For Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी के लिए कस्टम पोस्ट प्रकार"
+
+#~ msgid ""
+#~ "Copy & Embed shotcode into any Page/ Post / Text Widget to display your "
+#~ "flickr gallery on your site."
+#~ msgstr ""
+#~ "अपनी साइट पर अपनी फ़्लिकर गैलरी प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट "
+#~ "विजेट में कॉपीकोड एम्बेड करें और एम्बेड करें।"
+
+#, fuzzy
+#~| msgid "Show / Hide gallery post title."
+#~ msgid "Show / Hide Your Flickr Profile"
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#, fuzzy
+#~| msgid "A. Gallery Title Color"
+#~ msgid "I. Profile Title Color"
+#~ msgstr "अ. गैलरी शीर्षक रंग"
+
+#, fuzzy
+#~| msgid "Flickr Gallery Type"
+#~ msgid "2. Flickr Gallery Type"
+#~ msgstr "फ़्लिकर गैलरी प्रकार"
+
+#~ msgid "Photostream"
+#~ msgstr "फोटो धारा"
+
+#~ msgid "Album"
+#~ msgstr "एल्बम"
+
+#, fuzzy
+#~| msgid "I. All Flickr Albums"
+#~ msgid "I. All My Flickr Albums"
+#~ msgstr "I. सभी फ़्लिकर एल्बम"
+
+#~ msgid "Select an album gallery to display into gallery."
+#~ msgstr "गैलरी में प्रदर्शित करने के लिए एक एल्बम गैलरी का चयन करें।"
+
+#~ msgid "B. Gallery Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#~ msgid "Set the gallery post title font size"
+#~ msgstr "गैलरी पोस्ट शीर्षक फ़ॉन्ट आकार सेट करें"
+
+#~ msgid "C. Gallery Title Text Alignment"
+#~ msgstr "स. गैलरी शीर्षक पाठ संरेखण"
+
+#~ msgid "Set alignment of gallery post title."
+#~ msgstr "गैलरी पोस्ट शीर्षक के संरेखण सेट करें।"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "II. Colums On Large Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Large Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#~ msgid "Sets the columns on the Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Tablets"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "V. Colums On Phones"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Phones"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#~ msgid "B. Lightbox Preview Image Size"
+#~ msgstr "ब. लाइटबॉक्स पूर्वावलोकन छवि का आकार"
+
+#~ msgid "Set lightbox image preview size when click on thumbnail"
+#~ msgstr "थंबनेल पर क्लिक करते समय लाइटबॉक्स छवि पूर्वावलोकन आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Set thumbnail image size for gallery output"
+#~ msgid "Set a image order for flickr gallery"
+#~ msgstr "गैलरी आउटपुट के लिए थंबनेल छवि आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Light Image Gallery"
+#~ msgid "4. Light Image Gallery"
+#~ msgstr "लाइट इमेज गैलरी"
+
+#, fuzzy
+#~| msgid "Show / Hide gallery post title."
+#~ msgid "Show / Hide light gallery image light box."
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#, fuzzy
+#~| msgid "B. Gallery Title Font Size"
+#~ msgid "C. Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#~ msgid "%s rating"
+#~ msgstr "%s रेटिंग"
+
+#~ msgid "Get More Free WordPress Plugin From A WP Life"
+#~ msgstr "ए ड़बल्युपी लाइफ से अधिक मुफ्त वर्डप्रेस प्लगइन प्राप्त करें"
+
+#~ msgid "More Details"
+#~ msgstr "अधिक जानकारी"
+
+#~ msgid "Install Now"
+#~ msgstr "अभी स्थापित करें"
+
+#~ msgid "By "
+#~ msgstr "द्वारा"
+
+#~ msgid "Last Updated:"
+#~ msgstr "आखरी अपडेट:"
+
+#~ msgid "Buy Premium Plugin"
+#~ msgstr "प्रीमियम प्लगइन खरीदें"
+
+#~ msgid "Featured Plugin"
+#~ msgstr "फीचर्ड प्लगइन"
+
+#~ msgid "Our Theme"
+#~ msgstr "हमारी थीम"
+
+#~ msgid "Rate Our Plugin"
+#~ msgstr "हमारे प्लगइन को रेट करें"
+
+#~ msgid "First set your Flickr User ID and API Key on"
+#~ msgstr "पहले अपनी फ़्लिकर उपयोगकर्ता आईडी और एपीआई कुंजी सेट करें"
+
+#~ msgid "Page."
+#~ msgstr "पृष्ठ"
+
+#~ msgid "3 Column Layout"
+#~ msgstr "3 कॉलम लेआउट"
+
+#~ msgid "4 Column Layout"
+#~ msgstr "4 कॉलम लेआउट"
+
+#~ msgid "Square - 75x75"
+#~ msgstr "वर्ग - 75x75"
+
+#~ msgid "Large Square - 150x150"
+#~ msgstr "बड़ा वर्ग - 150x150"
+
+#~ msgid "Thumbnail - 100x75"
+#~ msgstr "थंबनेल - 100x75"
+
+#~ msgid "Small - 240x180"
+#~ msgstr "छोटा - 240x180"
+
+#~ msgid "Medium - 500x375"
+#~ msgstr "मध्यम - 500x375"
+
+#~ msgid "Large - 1024x768"
+#~ msgstr "बड़ा - 1024x768"
+
+#~ msgid "Light Box Preview"
+#~ msgstr "ब. लाइटबॉक्स पूर्वावलोकन छवि का आकार"
+
+#~ msgid ""
+#~ "Enable / Disable light gallery image light box for larger image preview."
+#~ msgstr "लाइट गैलरी छवि लाइट बॉक्स दिखाएँ / छुपाएं।"
