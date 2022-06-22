@@ -35,8 +35,17 @@ $(document).ready(function () {
     $('.popup-overlay, .popup-close-btn').click(function (e) { 
         e.preventDefault();
         
-        $('.popup-wrapper').hide();
+        $('.popup-wrapper').fadeOut(200);
+        $('.popup-container').fadeOut(50);
         $('body').css('overflow', 'inherit');
+    });
+    $(document).click(function (e) { 
+        e.preventDefault();
+        
+        var currentItem = $(this).find('.fa.fa-check');
+        currentItem.forEach(item => {
+            $(this).parent().addClass('selected');
+        });
     });
 
 });

@@ -62,7 +62,7 @@ function popup()
 ?>
 	<div class="popup-wrapper">
 		<div class="popup-overlay"></div>
-		<div class="popup-container">
+		<div class="popup-container slide-in-top">
 			<div class="popup-row">
 				<div class="popup-col-left"></div>
 				<div class="popup-col-right">
