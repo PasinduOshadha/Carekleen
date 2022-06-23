@@ -32,6 +32,10 @@
         @media screen and (max-width: 1024px){
             width: 90%;
         }
+        @media screen and (max-width: 480px){
+            height: 85vh;
+            overflow-y: scroll;
+        }
     }
     &-row{
         width: 100%;

@@ -66,7 +66,7 @@ function popup()
 			<div class="popup-row">
 				<div class="popup-col-left"></div>
 				<div class="popup-col-right">
-					<span class="popup-close-btn">Close</span><?php echo do_shortcode('[gravityform id="2" title="false" description="false" ajax="true" tabindex="49"]') ?></div>
+					<span class="popup-close-btn">Close</span><?php echo do_shortcode('[gravityform id="3" title="false" description="false" ajax="true" tabindex="49"]') ?></div>
 			</div>
 		</div>
 	</div>

@@ -53,3 +53,16 @@
     }
   }
 }
+
+.gform_confirmation_wrapper{
+  height: 100%;
+  padding: 50% 15px;
+  .gform_confirmation_message{
+      color: #fff;
+      margin: auto;
+  }
+}
+
+.gform_wrapper .gform_validation_errors{
+  margin-top: 50px !important;
+}

@@ -34,6 +34,10 @@ $(document).ready(function () {
     
     $('.popup-overlay, .popup-close-btn').click(function (e) { 
         e.preventDefault();
+
+        if($(document).find('#gform_3').length == 0){
+            window.location.reload()
+        }
         
         $('.popup-wrapper').fadeOut(200);
         $('.popup-container').fadeOut(50);
